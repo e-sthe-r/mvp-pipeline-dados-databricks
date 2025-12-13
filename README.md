@@ -60,7 +60,7 @@ mvp-pipeline-dados-databricks/
 
 - Databricks (Free Edition)
 - SQL (Spark SQL)
-- Python (quando necessário)
+- Python
 - Delta Lake
 - SQL Server (fonte de dados)
 - GitHub (versionamento e documentação)
