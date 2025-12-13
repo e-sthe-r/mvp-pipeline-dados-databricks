@@ -39,7 +39,7 @@ Essa arquitetura permite rastreabilidade, organização e governança dos dados 
 
 ## Estrutura do Repositório
 ````
-mvp-pipeline-ecommerce-databricks/
+mvp-pipeline-dados-databricks/
 |── README.md
 |── docs/
 │   |── objetivo.md
