@@ -56,9 +56,20 @@ Em 2012, esse padrão se repete, com crescimento progressivo ao longo do ano e p
 **5. Análises de Produtos**
 *5.1 Produtos com maior faturamento*
 
-A análise de faturamento por produto revelou que os modelos *Mountain-200 Black*, *38* e *Mountain-200 Black*, *42* estão entre os maiores geradores de receita, ambos com faturamento superior a 400 mil, evidenciado na "nb_04_analises_07_produtos_mais_vendidos".
+A análise de faturamento por produto evidenciou que os modelos da linha *Mountain-200* concentram a maior parte da receita do negócio. Em especial, os produtos *Mountain-200 Black*, *38* e *Mountain-200 Black*, *42* apresentaram faturamento individual superior a 400 mil, conforme ilustrado na evidência "nb_04_analises_07_produtos_mais_vendidos".
 
-Outros produtos da linha Mountain-200, como as versões Silver e 46, também aparecem com destaque, reforçando a importância dessa categoria no desempenho financeiro do negócio. Tais produtos podem ser considerados os principais geradores de receita e sujeitos a campanhas promocionais ou até mesmo expansão de portifólio.
+Esse resultado indica que o faturamento elevado desses produtos não está associado a um alto volume de vendas, mas sim a um valor unitário significativamente maior, característica típica de produtos de maior valor agregado, como bicicletas de alto desempenho.
+
+Quando comparados a produtos de giro rápido e baixo preço unitário, como *AWC Logo Cap ou Water Bottle – 30 oz*, observa-se um comportamento distinto,
+enquanto esses últimos lideram em quantidade vendida, os produtos da linha *Mountain-200* são responsáveis por uma parcela desproporcional da receita total.
+
+Esse padrão sugere que o portfólio do negócio apresenta forte concentração de faturamento em poucos produtos premium, o que traz implicações estratégicas importantes:
+
+- Risco de dependência excessiva de uma linha específica de produtos
+- Necessidade de atenção especial à cadeia de suprimentos desses itens, dado seu impacto financeiro
+- Oportunidade de estratégias de cross-selling, utilizando produtos de alto giro para impulsionar a venda de produtos premium
+
+Além disso, o destaque recorrente de diferentes variações do mesmo modelo (tamanhos e cores da linha Mountain-200) indica que o sucesso não está limitado a um único SKU isolado, mas sim a uma família de produtos bem posicionada no mercado, reforçando a importância estratégica dessa categoria para o negócio.
 
 *5.2 Produtos mais vendidos em quantidade*
 
